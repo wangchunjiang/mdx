@@ -1,0 +1,22 @@
+//
+//  HSPrefixHeader.pch
+//  ManduoXingUser
+//
+//  Created by 王春江 on 2021/1/25.
+//  Copyright © 2021 wkym. All rights reserved.
+//
+
+#ifndef HSPrefixHeader_pch
+#define HSPrefixHeader_pch
+
+#import "HSFileNameHeader.h"//文件
+#import "HSDefineHeader.h"//全局定义
+#import "HSColorDefineHeader.h"//颜色定义
+#import "HSUrlHeader.h"//接口
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* HSPrefixHeader_pch */

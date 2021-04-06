@@ -1,0 +1,25 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform:ios,'9.0'
+target "ManduoXingUser" do
+pod 'AFNetworking', '~> 4.0.1'#网络请求
+pod 'YYText', '~> 1.0.7' #富文本
+pod 'SDCycleScrollView', '~> 1.82'#轮播
+pod 'MJRefresh', '~> 3.5.0'#刷新
+pod 'MJExtension', '~> 3.2.4'#数据解析
+pod 'IQKeyboardManager', '~> 6.5.6'#键盘管理
+pod 'Masonry', '~> 1.1.0'#约束
+pod 'SVProgressHUD', '~> 2.2.5'#加载框
+pod 'SDWebImage', '~> 5.10.4'#图片加载
+pod 'ReactiveObjC', '~> 3.1.1'#信号传递事件处理
+pod 'YYCategories', '~> 1.0.4'#功能丰富的 Category 类型工具库
+pod 'TZImagePickerController', '~> 3.5.8'#图片选择
+pod 'GVUserDefaults', '~> 1.0.2'#NSUserDefault的扩展
+pod 'CYLTabBarController', '~> 1.29.0'
+pod 'TXLiteAVSDK_Professional', '~> 8.3.9878'#腾讯云直播换专业版sdk
+pod 'MBProgressHUD', '~> 1.2.0'#提示框
+pod 'AMap3DMap-NO-IDFA', '~> 7.8.0'#3D地图sdk
+pod 'AMapSearch-NO-IDFA', '~> 7.8.0'#搜索功能
+pod 'AMapLocation-NO-IDFA', '~> 2.6.7'#定位
+pod 'Toast', '~> 4.0.0'#文字提示框
+
+end

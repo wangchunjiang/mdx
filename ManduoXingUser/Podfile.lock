@@ -1,0 +1,119 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - AMap3DMap-NO-IDFA (7.8.0):
+    - AMapFoundation-NO-IDFA (~> 1.6.4)
+  - AMapFoundation-NO-IDFA (1.6.5.1)
+  - AMapLocation-NO-IDFA (2.6.7):
+    - AMapFoundation-NO-IDFA (~> 1.6.4)
+  - AMapSearch-NO-IDFA (7.8.0):
+    - AMapFoundation-NO-IDFA (~> 1.6.4)
+  - CYLTabBarController (1.29.0):
+    - CYLTabBarController/Core (= 1.29.0)
+  - CYLTabBarController/Core (1.29.0)
+  - GVUserDefaults (1.0.2)
+  - IQKeyboardManager (6.5.6)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.2.4)
+  - MJRefresh (3.5.0)
+  - ReactiveObjC (3.1.1)
+  - SDCycleScrollView (1.82):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SVProgressHUD (2.2.5)
+  - Toast (4.0.0)
+  - TXLiteAVSDK_Professional (8.3.9878)
+  - TZImagePickerController (3.5.8)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0.1)
+  - AMap3DMap-NO-IDFA (~> 7.8.0)
+  - AMapLocation-NO-IDFA (~> 2.6.7)
+  - AMapSearch-NO-IDFA (~> 7.8.0)
+  - CYLTabBarController (~> 1.29.0)
+  - GVUserDefaults (~> 1.0.2)
+  - IQKeyboardManager (~> 6.5.6)
+  - Masonry (~> 1.1.0)
+  - MBProgressHUD (~> 1.2.0)
+  - MJExtension (~> 3.2.4)
+  - MJRefresh (~> 3.5.0)
+  - ReactiveObjC (~> 3.1.1)
+  - SDCycleScrollView (~> 1.82)
+  - SDWebImage (~> 5.10.4)
+  - SVProgressHUD (~> 2.2.5)
+  - Toast (~> 4.0.0)
+  - TXLiteAVSDK_Professional (~> 8.3.9878)
+  - TZImagePickerController (~> 3.5.8)
+  - YYCategories (~> 1.0.4)
+  - YYText (~> 1.0.7)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - AMap3DMap-NO-IDFA
+    - AMapFoundation-NO-IDFA
+    - AMapLocation-NO-IDFA
+    - AMapSearch-NO-IDFA
+    - CYLTabBarController
+    - GVUserDefaults
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+    - Toast
+    - TXLiteAVSDK_Professional
+    - TZImagePickerController
+    - YYCategories
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  AMap3DMap-NO-IDFA: bb75e97716a1ccda372a397f25881a6f97631eb1
+  AMapFoundation-NO-IDFA: 0cf5f6c6de2725bcd868ed5aa756d12bc1a8f463
+  AMapLocation-NO-IDFA: 2a3edfee336b38481b892e1ecc85df0f6b365851
+  AMapSearch-NO-IDFA: 1ae997ebbd0eef87c7d240ed926eb5de51a2652d
+  CYLTabBarController: f5460b8446f82d016945d4d53895a1ef185b79e3
+  GVUserDefaults: 52d48cf8ba578b40a1a76312b196dfc9134ba36a
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 88e0900751b6cac8de1cf724ca9838a0b28d5acb
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDCycleScrollView: a0d74c3384caa72bdfc81470bdbc8c14b3e1fbcf
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  TXLiteAVSDK_Professional: 484ff42f2fa29fbbfeddda10e638a3c1376f357b
+  TZImagePickerController: 7fd9702897ef8c0b7c951e5463f4bcf398296f9e
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 5be0298075a3bdd627c5c5949f27f25c0fe67618
+
+COCOAPODS: 1.10.0
